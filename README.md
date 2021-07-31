@@ -1,5 +1,5 @@
 # STAT228_randomforest_project
-Group project during STAT 228 (Multivariate Data Analysis)
+Group project during STAT 228 (Multivariate Data Analysis) taught by Professor Qing Wang
 
 Group members: May Xia and Caiqin Zhou
 
